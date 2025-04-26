@@ -105,7 +105,7 @@ def delete_recipe():
 Function to remove a recipe.
 
 Inside delete_recipe():
-name = input("🗑Recipe name to delete: ").title()
+name = input("Recipe name to delete: ").title()
 if name in recipe_book:
     del recipe_book[name]
     print(f"'{name}' removed.")
