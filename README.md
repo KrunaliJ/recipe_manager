@@ -1,4 +1,4 @@
-# recipe_manager
+# recipe_manager using dictionaries
 
 recipe_book = {...}
 Create an initial dictionary called recipe_book.
